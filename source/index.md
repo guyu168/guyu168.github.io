@@ -28,7 +28,7 @@ Github: [guyu168](https://github.com/guyu168) <i class="fa-brands fa-github"></i
 
 ### Notice
 
-Please use Google drive to download the documents in archive.
+Please use Google drive to download the documents in archives.
 
 {% raw %}
 <script>
