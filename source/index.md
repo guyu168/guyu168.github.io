@@ -6,13 +6,13 @@ type: "Home"
 
 ### Brief
 
-I am a student major in CS <span style="color:blue" title="Year 2023">now</span>
+I am a student major in Mathematics and Applied Mathematics <span style="color:blue" title="Year 2023">now</span>
 
-with interests in CG and CV and also TCS.
+with interests in partial differential equations, ergodic theory and also operation research.
 
 ### Personal Information
 
-Personal Email: <a href="mailto:pscgylotti@gmail.com">pscgylotti@gmail.com</a>  <i class="fa fa-envelope"></i>
+Personal Email: <a href="mailto:guyu567@mail.ustc.edu.cn">guyu567@mail.ustc.edu.cn</a>  <i class="fa fa-envelope"></i>
 
 Github: [pscgylotti](https://github.com/Pscgylotti) <i class="fa-brands fa-github"></i>
 
