@@ -28,7 +28,7 @@
 <meta property="og:description" content="Counting of Spanning TreeKirchhoff MatrixSelect a labeling map $\mu:\lbrace 1,2,\cdots,\nu(G)\rbrace\to V(G)$ which is an one-to-one map mapping an index to a vertex in graph $G$, define the Kirchhoff">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2023-06-10T19:25:12.000Z">
-<meta property="article:modified_time" content="2024-02-08T06:16:28.102Z">
+<meta property="article:modified_time" content="2024-02-08T09:53:08.110Z">
 <meta property="article:author" content="guyu">
 <meta property="article:tag" content="Mathematics">
 <meta property="article:tag" content="Graph Theory">
@@ -184,7 +184,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2024-02-08 06:16:28" itemprop="dateModified" datetime="2024-02-08T06:16:28+00:00">2024-02-08</time>
+                <time title="Modified: 2024-02-08 09:53:08" itemprop="dateModified" datetime="2024-02-08T09:53:08+00:00">2024-02-08</time>
               </span>
 
           
@@ -223,12 +223,7 @@
 <script type="math/tex; mode=display">x=(x_1,x_2,x_3,\cdots,x_{\nu-1}),1\leq x_1<x_2<\cdots<x_{\nu-1}\leq m</script><p>and make a abbreviated notion:</p>
 <script type="math/tex; mode=display">B_r^x=B_r\left(\begin{matrix}1&2&\cdots&\nu-1\\ i_1&i_2&\cdots&i_{\nu}\end{matrix}\right)</script><p>We have:</p>
 <script type="math/tex; mode=display">\text{det}(B_r^x)^2=\text{det}(B_r^x)\text{det}((B_r^x)^T)=det(B_r^x(B_r^x)^T)</script><p>In fact $B_r^x(B_r^x)^T$ is a $\nu-1$ order principal sub-matrix of a $\nu$ order Kirchhoff matrix, we have $\text{det}\left(B_r^x(B_r^x)^T\right)=1$ if adding $\theta(x_1),\theta(x_2),\cdots,\theta(x_{\nu-1})$ to the empty graph of $V(G)$ is a tree, or else $\text{det}\left(B_r^x(B_r^x)^T\right)=0$ (since there are $\nu-1$ edges which is the minimal requirement for a completely connected graph).<br>So if we compute the $\text{det}(C_r(K))$, it will automatically traverse any possible sub graph of $G$ with $\nu-1$ edge and self-add $1$ if it find a tree. Thus</p>
-<script type="math/tex; mode=display">\text{det}\left(C_r(K(G))\right)=\tau(G)</script><h3 id="An-Example"><a href="#An-Example" class="headerlink" title="An Example"></a>An Example</h3><p>Define a <strong>Wheel Graph</strong> as $W_n=C_n\lor v_o$ where $v_o$ is a single vertex and $C_n$ is a $n$-cycle, please calculate the $\tau(W_n)$:</p>
-<p>Set $\mu$ as mapping vertices on $C_n$ to $\lbrace 1,2,\cdots,n\rbrace$ and $v_o$ to $n+1$. We have the $K(W_n)$ as:</p>
-<script type="math/tex; mode=display">K(W_n)=\left(\begin{matrix}3&-1&0&\cdots&0&-1&-1\\ -1&3&-1&0&\cdots&0&-1\\ 0&-1&3&\ddots&\ddots&\vdots&\vdots\\ \vdots&0&\ddots&\ddots&\ddots&0&\vdots\\ 0&\vdots&\ddots&\ddots&3&-1&\vdots\\ -1&0&\cdots&0&-1&3&-1\\ -1&-1&\cdots&\cdots&\cdots&-1&n\end{matrix}\right)_{n+1\times n+1}</script><p>Get rid of the $n+1$-th row and column, we have:</p>
-<script type="math/tex; mode=display">\tau(W_n)=\left|\begin{matrix}3&-1&0&\cdots&0&-1\\ -1&3&-1&0&\cdots&0\\0&-1&3&\ddots&\ddots&\vdots\\ \vdots&0&\ddots&\ddots&\ddots&0\\ 0&\vdots&\ddots&\ddots&3&-1\\ -1&0&\cdots&0&-1&3\end{matrix}\right|_{n\times n}=\left(\dfrac{3+\sqrt{5}}{2}\right)^n+\left(\dfrac{3-\sqrt{5}}{2}\right)^n-2</script><p>The trick here is setting the target term as $S_n$, Let $P_n$ be</p>
-<script type="math/tex; mode=display">P_n=\left|\begin{matrix}3&-1&0&\cdots&0\\ -1&3&\ddots&\ddots&\vdots\\ 0&\ddots&\ddots&\ddots&0\\ \vdots&\ddots&\ddots&3&-1\\ 0&\cdots&0&-1&3\end{matrix}\right|_{n\times n}</script><p>Expand $S_n$ and $P_n$, we have:</p>
-<script type="math/tex; mode=display">S_n=2P_{n-1}-2P_{n-2}-2,P_n=3P_{n-1}-P_{n-2}</script>
+<script type="math/tex; mode=display">\text{det}\left(C_r(K(G))\right)=\tau(G)</script>
     </div>
 
     
@@ -309,7 +304,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Counting-of-Spanning-Tree"><span class="nav-number">1.</span> <span class="nav-text">Counting of Spanning Tree</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Kirchhoff-Matrix"><span class="nav-number">1.1.</span> <span class="nav-text">Kirchhoff Matrix</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Property-I"><span class="nav-number">1.1.1.</span> <span class="nav-text">Property I</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Property-II"><span class="nav-number">1.1.2.</span> <span class="nav-text">Property II</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Property-III"><span class="nav-number">1.1.3.</span> <span class="nav-text">Property III</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Incidence-Matrix"><span class="nav-number">1.2.</span> <span class="nav-text">Incidence Matrix:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Matrix-Tree-Theorem"><span class="nav-number">1.3.</span> <span class="nav-text">Matrix-Tree Theorem</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#An-Example"><span class="nav-number">1.4.</span> <span class="nav-text">An Example</span></a></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Counting-of-Spanning-Tree"><span class="nav-number">1.</span> <span class="nav-text">Counting of Spanning Tree</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Kirchhoff-Matrix"><span class="nav-number">1.1.</span> <span class="nav-text">Kirchhoff Matrix</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#Property-I"><span class="nav-number">1.1.1.</span> <span class="nav-text">Property I</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Property-II"><span class="nav-number">1.1.2.</span> <span class="nav-text">Property II</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#Property-III"><span class="nav-number">1.1.3.</span> <span class="nav-text">Property III</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Incidence-Matrix"><span class="nav-number">1.2.</span> <span class="nav-text">Incidence Matrix:</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Matrix-Tree-Theorem"><span class="nav-number">1.3.</span> <span class="nav-text">Matrix-Tree Theorem</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
