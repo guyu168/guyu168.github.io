@@ -1,11 +1,18 @@
 ---
-title: A Primary Solution to Bessel's Problem
-date: 2020-05-13 10:52:17
+title: Probability Theory
+date: 2023-06-04 10:52:17
 tags:
   - Mathematics
+  - Probability
 mathjax: true
 ---
 
 ## Abstract
 
 - Discrete Random Variable
+- Random Walk
+- Characteristic Function
+- Laws of Large Numbers
+- Central Limits Theorem
+
+[Probability Theory](https://drive.google.com/file/d/1L7r7-q7D1_8BGIuf0AFlobsZouYxIZNR/view?usp=sharing)
