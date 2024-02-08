@@ -34,7 +34,7 @@ QQ: 1219518957
 
 ### Notice
 
-Please use Google drive to download the documents in archives.
+Please use Google drive to download the documents in archives. Thus if you are in China mainland, you should use VPN.
 
 {% raw %}
 <script>
