@@ -84,21 +84,3 @@ In fact $B_r^x(B_r^x)^T$ is a $\nu-1$ order principal sub-matrix of a $\nu$ orde
 So if we compute the $\text{det}(C_r(K))$, it will automatically traverse any possible sub graph of $G$ with $\nu-1$ edge and self-add $1$ if it find a tree. Thus
 $$\text{det}\left(C_r(K(G))\right)=\tau(G)$$
 
-### An Example
-
-Define a **Wheel Graph** as $W_n=C_n\lor v_o$ where $v_o$ is a single vertex and $C_n$ is a $n$-cycle, please calculate the $\tau(W_n)$:
-
-Set $\mu$ as mapping vertices on $C_n$ to $\lbrace 1,2,\cdots,n\rbrace$ and $v_o$ to $n+1$. We have the $K(W_n)$ as:
-
-$$K(W_n)=\left(\begin{matrix}3&-1&0&\cdots&0&-1&-1\\ -1&3&-1&0&\cdots&0&-1\\ 0&-1&3&\ddots&\ddots&\vdots&\vdots\\ \vdots&0&\ddots&\ddots&\ddots&0&\vdots\\ 0&\vdots&\ddots&\ddots&3&-1&\vdots\\ -1&0&\cdots&0&-1&3&-1\\ -1&-1&\cdots&\cdots&\cdots&-1&n\end{matrix}\right)_{n+1\times n+1}$$
-
-Get rid of the $n+1$-th row and column, we have:
-
-$$\tau(W_n)=\left|\begin{matrix}3&-1&0&\cdots&0&-1\\ -1&3&-1&0&\cdots&0\\0&-1&3&\ddots&\ddots&\vdots\\ \vdots&0&\ddots&\ddots&\ddots&0\\ 0&\vdots&\ddots&\ddots&3&-1\\ -1&0&\cdots&0&-1&3\end{matrix}\right|_{n\times n}=\left(\dfrac{3+\sqrt{5}}{2}\right)^n+\left(\dfrac{3-\sqrt{5}}{2}\right)^n-2$$
-
-The trick here is setting the target term as $S_n$, Let $P_n$ be
-$$P_n=\left|\begin{matrix}3&-1&0&\cdots&0\\ -1&3&\ddots&\ddots&\vdots\\ 0&\ddots&\ddots&\ddots&0\\ \vdots&\ddots&\ddots&3&-1\\ 0&\cdots&0&-1&3\end{matrix}\right|_{n\times n}$$
-
-Expand $S_n$ and $P_n$, we have:
-
-$$S_n=2P_{n-1}-2P_{n-2}-2,P_n=3P_{n-1}-P_{n-2}$$
