@@ -15,4 +15,4 @@ mathjax: true
 - Laws of Large Numbers
 - Central Limits Theorem
 
-[Probability Theory](https://drive.google.com/file/d/1L7r7-q7D1_8BGIuf0AFlobsZouYxIZNR/view?usp=sharing)
+[Probability Theory(Chinese.ver)](https://drive.google.com/file/d/1L7r7-q7D1_8BGIuf0AFlobsZouYxIZNR/view?usp=sharing)
