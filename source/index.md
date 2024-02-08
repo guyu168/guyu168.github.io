@@ -14,11 +14,11 @@ with interests in partial differential equations, ergodic theory and also operat
 
 Personal Email: <a href="mailto:guyu567@mail.ustc.edu.cn">guyu567@mail.ustc.edu.cn</a>  <i class="fa fa-envelope"></i>
 
-Github: [pscgylotti](https://github.com/Pscgylotti) <i class="fa-brands fa-github"></i>
+Github: [guyu168](https://github.com/guyu168) <i class="fa-brands fa-github"></i>
 
 ### Educational Information
 
-2019-2023: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>), Bachelor Degree.
+2021-2025: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>),School of Gifted Young, Bachelor Degree.(expected)
 
 ### Technology Tree
 
