@@ -4,6 +4,8 @@ date: 2024-02-08
 type: "Home"
 ---
 
+![](/images/1.jpg)
+
 ### Brief
 
 I am a student major in Mathematics and Applied Mathematics <span style="color:blue" title="Year 2023">now</span>
