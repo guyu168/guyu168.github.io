@@ -12,7 +12,7 @@ mathjax: true
 - Measure Theory
 - Signed Measure and Differential
 - Functional Analysis
-- Inequalities in L^{p} Space
+- Inequalities in L^p Space
 - Interpolation Theorems
 - Distribution Theory
 - Fourier Analysis
