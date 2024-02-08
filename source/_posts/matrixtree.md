@@ -1,6 +1,6 @@
 ---
-title: Matrix-Tree Theorem
-date: 2021-02-11 19:25:12
+title: Modern Algebre
+date: 2023-06-10 19:25:12
 tags:
   - Mathematics
   - Graph Theory
