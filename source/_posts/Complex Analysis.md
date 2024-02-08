@@ -15,4 +15,4 @@ mathjax: true
 - Laurent Series
 - Conformal Mapping
 
-[Complex Analysis](https://drive.google.com/file/d/1M0ZRh-2ndvAArQxn9U0eXnodIaSreEzU/view?usp=sharing)
+[Complex Analysis(Chinese.ver)](https://drive.google.com/file/d/1M0ZRh-2ndvAArQxn9U0eXnodIaSreEzU/view?usp=sharing)
