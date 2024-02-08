@@ -7,7 +7,7 @@ type: "Home"
 ### Brief
 
 {% raw %}
-<center><img src='/images/1.jpg' style='width:500px'></img></center>
+<center><img src='/images/1.jpg' style='width:250px'></img></center>
 {% endraw %}
 
 I am a student major in Mathematics and Applied Mathematics <span style="color:blue" title="Year 2023">now</span>
