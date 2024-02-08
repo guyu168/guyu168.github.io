@@ -20,18 +20,15 @@ Github: [guyu168](https://github.com/guyu168) <i class="fa-brands fa-github"></i
 
 2021-2025: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>),School of Gifted Young, Bachelor Degree.(expected)
 
-### Technology Tree
+### Teaching Experience
 
-* Object-Oriented Programming <i class="fa fa-computer"></i>
-* Web-based Components Integration <i class="fa fa-code"></i>
-* Digital Visual Art (within the range of human cognition) <i class="fa fa-palette"></i>
-* Wave-based Music (within the range of human perception) <i class="fa fa-waveform"></i>
-* High Dimensional and Non-euclidean Rendering <i class="fa fa-chart-scatter-3d"></i>
-* Statistical Optimization <i class="fa fa-chart-simple"></i>
-* Non-abstract Mathematics <i class="fa fa-function"></i>
-* Rekursiv and Logic Theory <i class="fa fa-diagram-venn"></i>
-* Graph and Bayesian-Statistics based Society Cognition <i class="fa fa-circle-nodes"></i>
-* Spatial-Temporal-Hierarchical Physical Universe Cognition <i class="fa fa-atom"></i>
+2023Fall:	Teaching Assistant, Introduction to Differential Equation in USTC.
+
+2024Spring: Teaching Assistant, Probability Theory in USTC.
+
+### Notice
+
+Please use Google drive to download the documents in archive.
 
 {% raw %}
 <script>
