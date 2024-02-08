@@ -16,6 +16,8 @@ Personal Email: <a href="mailto:guyu567@mail.ustc.edu.cn">guyu567@mail.ustc.edu.
 
 Github: [guyu168](https://github.com/guyu168) <i class="fa-brands fa-github"></i>
 
+QQ: 1219518957
+
 ### Educational Information
 
 2021-2025: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>),School of Gifted Young, Bachelor Degree.(expected)
