@@ -16,3 +16,5 @@ mathjax: true
 - Conformal Mapping
 
 [Complex Analysis(Chinese.ver)](https://drive.google.com/file/d/1M0ZRh-2ndvAArQxn9U0eXnodIaSreEzU/view?usp=sharing)
+
+Reference: 史济怀，刘太顺. 复变函数[M]
