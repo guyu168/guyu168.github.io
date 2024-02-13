@@ -16,3 +16,5 @@ mathjax: true
 - Gauss-Bonet Formula
 
 [Differential Geometry(Chinese.ver)](https://drive.google.com/file/d/1Xm8qHGRvygP2NYhm_mvj72MXWr0aRIwz/view?usp=sharing)
+
+Reference: 彭家贵，陈卿. 微分几何[M]
