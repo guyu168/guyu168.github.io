@@ -16,3 +16,5 @@ mathjax: true
 - Central Limits Theorem
 
 [Probability Theory(Chinese.ver)](https://drive.google.com/file/d/1L7r7-q7D1_8BGIuf0AFlobsZouYxIZNR/view?usp=sharing)
+
+Reference: Grimmett. Probability and Random Processes [M]
