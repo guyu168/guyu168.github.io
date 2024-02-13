@@ -14,3 +14,5 @@ mathjax: true
 - Ring and Field
 
 [Mordern Algebra(Chinese.ver)](https://drive.google.com/file/d/1LS5Hiq5MYSApI5bBnX-jWbZmDXSrq8bn/view?usp=sharing)
+
+Reference: 冯克勤. 近世代数引论[M]
