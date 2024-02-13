@@ -1,6 +1,6 @@
 ---
 title: Scholastic Record
-date: 2023-02-13 20:05:51
+date: 2024-02-13 20:05:51
 tags:
   
 mathjax: true
