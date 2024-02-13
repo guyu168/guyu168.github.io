@@ -16,3 +16,5 @@ mathjax: true
 - Bounded Variation
 
 [Real Analysis(Chinese.ver)](https://drive.google.com/file/d/1iHEeRjFhlOhrN1XhupR_hvqbBxl1w2Ty/view?usp=sharing)
+
+Reference: Stein. Real Analysis [M]
