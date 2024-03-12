@@ -11,5 +11,7 @@ mathjax: true
 
 - Laplace Equations
 - Sobolev Spaces
+- Nonlinear First-order PDE
+- The Introduction to Hamilton-Jacobi Equation
 
-[Partial Differential Equations](https://drive.google.com/file/d/1hfI5SbL-gTbAyHot4wHe6VZ6Pfnl1IOL/view?usp=sharing)
+[Partial Differential Equations](https://drive.google.com/file/d/1baSOHUAk34cB4GFUs2fzDHqLmbOyM2Kz/view?usp=sharing)
