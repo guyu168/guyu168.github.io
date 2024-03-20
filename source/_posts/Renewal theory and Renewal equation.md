@@ -7,4 +7,6 @@ tags:
 mathjax: true
 ---
 
-![Error](/images/)
+![Error](source/images/Renewal_theory_and_Renewal_equation_page-0001.jpg)
+![Error](source/images/Renewal_theory_and_Renewal_equation_page-0002.jpg)
+![Error](source/images/Renewal_theory_and_Renewal_equation_page-0003.jpg)
