@@ -7,4 +7,4 @@ tags:
 mathjax: true
 ---
 
-![Error](path/to/image.jpg)
+![Error](/images/)
