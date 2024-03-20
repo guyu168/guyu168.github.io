@@ -7,8 +7,9 @@ tags:
 mathjax: true
 ---
 {% raw %}
-<center><img src='images/Renewal_theory_and_Renewal_equation_page-0001.jpg' width="1275" height="1650"></img></center>
+<center><img src='/images/0001.jpg' style='width:1275px'></img></center>
 {% endraw %}
+
 ![Error](images/Renewal_theory_and_Renewal_equation_page-0001.jpg)
 ![Error](images/Renewal_theory_and_Renewal_equation_page-0002.jpg)
 ![Error](source/images/Renewal_theory_and_Renewal_equation_page-0003.jpg)
