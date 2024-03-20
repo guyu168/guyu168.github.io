@@ -6,3 +6,5 @@ tags:
   - Probability
 mathjax: true
 ---
+
+![Error](path/to/image.jpg)
