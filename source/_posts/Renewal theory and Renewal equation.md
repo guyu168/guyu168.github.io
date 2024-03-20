@@ -9,12 +9,24 @@ mathjax: true
 {% raw %}
 <center><img src='/images/0001.jpg' style='width:1275px'></img></center>
 {% endraw %}
-
-![Error](images/Renewal_theory_and_Renewal_equation_page-0001.jpg)
-![Error](images/Renewal_theory_and_Renewal_equation_page-0002.jpg)
-![Error](source/images/Renewal_theory_and_Renewal_equation_page-0003.jpg)
-![Error](source/images/Renewal_theory_and_Renewal_equation_page-0004.jpg)
-![Error](source/images/Renewal_theory_and_Renewal_equation_page-0005.jpg)
-![Error](source/images/Renewal_theory_and_Renewal_equation_page-0006.jpg)
-![Error](source/images/Renewal_theory_and_Renewal_equation_page-0007.jpg)
-![Error](source/images/Renewal_theory_and_Renewal_equation_page-0008.jpg)
+{% raw %}
+<center><img src='/images/0002.jpg' style='width:1275px'></img></center>
+{% endraw %}
+{% raw %}
+<center><img src='/images/0003.jpg' style='width:1275px'></img></center>
+{% endraw %}
+{% raw %}
+<center><img src='/images/0004.jpg' style='width:1275px'></img></center>
+{% endraw %}
+{% raw %}
+<center><img src='/images/0005.jpg' style='width:1275px'></img></center>
+{% endraw %}
+{% raw %}
+<center><img src='/images/0006.jpg' style='width:1275px'></img></center>
+{% endraw %}
+{% raw %}
+<center><img src='/images/0007.jpg' style='width:1275px'></img></center>
+{% endraw %}
+{% raw %}
+<center><img src='/images/0008.jpg' style='width:1275px'></img></center>
+{% endraw %}
