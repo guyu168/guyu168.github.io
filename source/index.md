@@ -28,11 +28,14 @@ QQ: 1219518957
 
 2021-2025: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>),School of Gifted Young, Bachelor Degree.(expected)
 
+### Academic Experience
+
+2024.7 - 2025.1(Expected):	Visiting Research Scholar in the University of Tokyo, supervised by Prof.Mitake Hiroyoshi.
+
+
 ### Teaching Experience
 
 2023Fall:	Teaching Assistant, Introduction to Differential Equation in USTC.
-
-2024Spring: Teaching Assistant, Probability Theory in USTC.
 
 ### Notice
 
