@@ -33,7 +33,6 @@ QQ: 1219518957
 
 2024.7 - 2025.1(Expected):	Visiting Research Scholar in the University of Tokyo, supervised by Prof.Mitake Hiroyoshi.
 
-
 ### Teaching Experience
 
 2023Fall:	Teaching Assistant, Introduction to Differential Equation in USTC.
