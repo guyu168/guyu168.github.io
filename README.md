@@ -1,1 +1,3 @@
 # hexo-template
+
+test
