@@ -20,4 +20,4 @@ mathjax: true
 
 [Final Exam of Ergodic Theory](https://drive.google.com/file/d/1iNdrremNeHSJdsmM3NcmcnxK25_qq8Ls/view?usp=drive_link)
 
-Reference: 黄文,叶向东,邵松 遍历理论及其应用[M]
+Reference: 黄文,叶向东,邵松.遍历理论及其应用[M]
