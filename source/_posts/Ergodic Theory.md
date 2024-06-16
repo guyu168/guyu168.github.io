@@ -18,7 +18,7 @@ mathjax: true
 - Lebesgue space
 - Isomorphism for dynamic systems
 
-[Final Exam of Ergodic Theory](https://drive.google.com/file/d/1iNdrremNeHSJdsmM3NcmcnxK25_qq8Ls/view?usp=drive_link)
-[Ergodic Theory(Chinese Ver.)](https://drive.google.com/file/d/1OH1oTfCdxXaoxiE90xwI9EvlTX3tZ4lZ/view?usp=sharing)
+-[Final Exam of Ergodic Theory](https://drive.google.com/file/d/1iNdrremNeHSJdsmM3NcmcnxK25_qq8Ls/view?usp=drive_link)
+-[Ergodic Theory(Chinese Ver.)](https://drive.google.com/file/d/1OH1oTfCdxXaoxiE90xwI9EvlTX3tZ4lZ/view?usp=sharing)
 
 Reference: 黄文, 叶向东, 邵松. 遍历理论及其应用[M]
