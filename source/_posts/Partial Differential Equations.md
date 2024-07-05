@@ -17,3 +17,6 @@ mathjax: true
 - Linear Evolution Equation
 
 [Partial Differential Equations](https://drive.google.com/file/d/1baSOHUAk34cB4GFUs2fzDHqLmbOyM2Kz/view?usp=sharing)
+
+[Partial Differential Equations 2](https://drive.google.com/file/d/1AsLnLG5QTwQ4gGT6Vz8ySJM-9geAuTYH/view?usp=sharing)
+
