@@ -10,6 +10,7 @@ mathjax: true
 ## Abstract
 
 - Laplace Equations
+- Estimations for Elliptic Equations
 - Sobolev Spaces
 - Nonlinear First-order PDE
 - The Introduction to Hamilton-Jacobi Equation
@@ -20,3 +21,6 @@ mathjax: true
 
 [Partial Differential Equations 2](https://drive.google.com/file/d/1AsLnLG5QTwQ4gGT6Vz8ySJM-9geAuTYH/view?usp=sharing)
 
+Reference: Lawrence.c.Evans. Partial Differential Equations [M]
+
+Qing Han, Fanghua Lin. Elliptic Partial Differential Equations[M]
