@@ -15,7 +15,7 @@ type: "Home"
 
 I am a student major in Mathematics and Applied Mathematics <span style="color:blue" title="Year 2023">now</span>
 
-with interests in partial differential equations, ergodic theory and also operation research.
+with interests in partial differential equations, mainly about Hamilton-Jacobi equations.
 
 ### Personal Information
 
@@ -31,11 +31,13 @@ QQ: 1219518957
 
 ### Academic Experience
 
-2024.7 - 2025.1(Expected):	Visiting Research Scholar in the University of Tokyo, supervised by Prof.Mitake Hiroyoshi.
+2024.7 - 2025.1(Expected):	Visiting Research Scholar in the University of Tokyo, supervised by Prof. Hiroyoshi Mitake.
 
 ### Teaching Experience
 
 2023Fall:	Teaching Assistant, Introduction to Differential Equation in USTC.
+
+2024Fall: Teaching Assistant, Advanced Real Analyisi in USTC.
 
 ### Notice
 
