@@ -38,4 +38,4 @@ Chapter 4
 
 [Hamilton Jacobi equation chpt4](https://drive.google.com/file/d/1TCWUt4iXYhglQ-j5NN9PKoY9yGLUbXIz/view?usp=sharing)
 
-
+Reference: Hung Vinh Tran. Hamliton-Jacobi Equations: Theory and Applications [M]
