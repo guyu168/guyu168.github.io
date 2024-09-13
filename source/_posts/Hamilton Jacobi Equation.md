@@ -30,10 +30,10 @@ Chapter 2
 Chapter 4
 - Periodic Hamiltonian
 - The cell problem
-- The construction of effective Hamiltonian
-- The properties of effective Hamiltonian
+- The construction of the effective Hamiltonian
+- The properties of the effective Hamiltonian
 - The inf-sup formula
-- The computation for effective Hamiltonian
+- The computation for the effective Hamiltonian
 - Rate of convergence
 
 [Hamilton Jacobi equation chpt4](https://drive.google.com/file/d/1TCWUt4iXYhglQ-j5NN9PKoY9yGLUbXIz/view?usp=sharing)
