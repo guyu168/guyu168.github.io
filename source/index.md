@@ -37,7 +37,7 @@ QQ: 1219518957
 
 2023Fall:	Teaching Assistant, Introduction to Differential Equation in USTC.
 
-2024Fall: Teaching Assistant, Advanced Real Analyisi in USTC.
+2024Fall: Teaching Assistant, Advanced Real Analysis in USTC.
 
 ### Notice
 
