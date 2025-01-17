@@ -4,7 +4,7 @@ date: 2024-02-08
 type: "Home"
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=2050558299&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=2604307454&auto=1&height=66"></iframe>
 
 
 ### Brief
@@ -31,7 +31,7 @@ QQ: 1219518957
 
 ### Academic Experience
 
-2024.7 - 2025.1(Expected):	Visiting Research Scholar in the University of Tokyo, supervised by Prof. Hiroyoshi Mitake.
+2024.7 - 2025.1:	Visiting Research Scholar in the University of Tokyo, supervised by Prof. Hiroyoshi Mitake.
 
 ### Teaching Experience
 
