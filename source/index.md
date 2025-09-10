@@ -27,7 +27,8 @@ QQ: 1219518957
 
 ### Educational Information
 
-2021-2025: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>),School of Gifted Young, Bachelor Degree.(expected)
+2021-2025: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>),School of Gifted Young, Bachelor Degree.
+2026-: The University of Tokyo (UTokyo <a href="https://www.u-tokyo.ac.jp"> <i class="fa fa-book"></i></a>),Graduate School of Mathematical Sciences, MS&PhD.
 
 ### Academic Experience
 
