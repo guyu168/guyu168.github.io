@@ -19,7 +19,7 @@ with interests in partial differential equations, mainly about Hamilton-Jacobi e
 
 ### Personal Information
 
-Personal Email: <a href="mailto:guyu567@mail.ustc.edu.cn">guyu567@mail.ustc.edu.cn</a>  <i class="fa fa-envelope"></i>
+Personal Email:  <a href="mailto:guyu567@g.ecc.u-tokyo.ac.jp">guyu567@g.ecc.u-tokyo.ac.jp</a>  <i class="fa fa-envelope"></i>
 
 Github: [guyu168](https://github.com/guyu168) <i class="fa-brands fa-github"></i>
 
@@ -28,6 +28,7 @@ QQ: 1219518957
 ### Educational Information
 
 2021-2025: University of Science and Technologies of China (USTC <a href="https://www.ustc.edu.cn"> <i class="fa fa-book"></i></a>),School of Gifted Young, Bachelor Degree.
+
 2026-: The University of Tokyo (UTokyo <a href="https://www.u-tokyo.ac.jp"> <i class="fa fa-book"></i></a>),Graduate School of Mathematical Sciences, MS&PhD.
 
 ### Academic Experience
