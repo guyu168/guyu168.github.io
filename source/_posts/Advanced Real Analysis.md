@@ -19,4 +19,4 @@ mathjax: true
 
 [Advanced Analysis](https://drive.google.com/file/d/1lOQF_VctEDme8FEH-XYilOrxgsD9fIDz/view?usp=sharing)
 
-Refrence: Folland. Real Analysis[M]
+Reference: Folland. Real Analysis[M]
