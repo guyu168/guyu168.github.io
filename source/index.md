@@ -15,7 +15,7 @@ type: "Home"
 
 I am a student major in Mathematics and Applied Mathematics <span style="color:blue" title="Year 2023">now</span>
 
-with interests in partial differential equations, mainly about Hamilton-Jacobi equations.
+with interests in partial differential equations and stochastic analysis, mainly in Hamilton-Jacobi equations and viscosity solutions.
 
 ### Personal Information
 
