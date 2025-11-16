@@ -6,6 +6,7 @@ on:
       - main  # default branch
     paths:
       - source/_posts/**
+  workflow_dispatch:
 
 jobs:
   pages:
