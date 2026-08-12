@@ -43,7 +43,7 @@ QQ: 1219518957
 
 ### Preprint
 
-Jin, G. (2026). Homogenization of Viscous Sublinear Hamilton--Jacobi Equations with $ u/\epsilon $-Dependence. arXiv preprint arXiv:2608.00438.
+1. Jin, G. (2026). Homogenization of Viscous Sublinear Hamilton--Jacobi Equations with $ u/\epsilon $-Dependence. arXiv preprint arXiv:2608.00438.
 
 ### Notice
 
