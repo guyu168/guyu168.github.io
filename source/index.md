@@ -41,6 +41,10 @@ QQ: 1219518957
 
 2024Fall: Teaching Assistant, Advanced Real Analysis in USTC.
 
+### Preprint
+
+Jin, G. (2026). Homogenization of Viscous Sublinear Hamilton--Jacobi Equations with $ u/\epsilon $-Dependence. arXiv preprint arXiv:2608.00438.
+
 ### Notice
 
 Please use Google drive to download the documents in archives. Thus if you are in China mainland, you should use VPN.
