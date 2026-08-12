@@ -8,4 +8,4 @@ mathjax: true
 
 ## Abstract
 
-- Community of Contact-type Hamilton-Jacobi equations
+- Community of Contact-type Hamilton-Jacobi equations 
