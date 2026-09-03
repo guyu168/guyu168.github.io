@@ -45,6 +45,31 @@ QQ: 1219518957
 
 1. Jin, G. (2026). Homogenization of Viscous Sublinear Hamilton--Jacobi Equations with $ u/\epsilon $-Dependence. arXiv preprint arXiv:2608.00438.
 
+### GitHub Projects
+
+{% raw %}
+<div id="github-projects" class="github-project-grid">
+  <article class="github-project-card">
+    <div class="github-project-kicker">Quantitative Research · Python</div>
+    <div class="github-project-title">Robust ETF Pairs Research</div>
+    <p>A reproducible GLD–IAU relative-value study with a fixed train/test split, next-period execution, transaction costs, and parameter-sensitivity analysis. The central result is deliberately honest: the apparent gross mean-reversion edge does not survive a modest cost assumption.</p>
+    <div class="github-project-links">
+      <a href="https://github.com/guyu168/robust-pairs-research" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i> Repository</a>
+    </div>
+  </article>
+
+  <article class="github-project-card">
+    <div class="github-project-kicker">Data Engineering · Python · React</div>
+    <div class="github-project-title">arXiv Mathematics Trends &amp; Author Explorer</div>
+    <p>An auditable 2010–2026 mathematics-publication dataset and interactive explorer. It ranks active authors over user-selected date windows, uses ORCID/OpenAlex identifiers for disambiguation, and compares publication growth across all 32 arXiv mathematics categories.</p>
+    <div class="github-project-links">
+      <a href="https://github.com/guyu168/arxiv-math-trends" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i> Repository</a>
+      <a href="https://arxiv-math-observatory-guyu.nifty-scout-4978.chatgpt.site/" target="_blank" rel="noopener noreferrer"><i class="fa fa-arrow-up-right-from-square"></i> Live explorer</a>
+    </div>
+  </article>
+</div>
+{% endraw %}
+
 ### Notice
 
 Please use Google drive to download the documents in archives. Thus if you are in China mainland, you should use VPN.

@@ -5,7 +5,10 @@ on:
     branches:
       - main  # default branch
     paths:
-      - source/_posts/**
+      - source/**
+      - _config.yml
+      - themes/next/_config.yml
+      - .github/workflows/main.yml
   workflow_dispatch:
 
 jobs:
@@ -14,17 +17,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           # If your repository depends on submodule, please see: https://github.com/actions/checkout
           submodules: recursive
-      - name: Use Node.js 16.x
-        uses: actions/setup-node@v2
+      - name: Use Node.js 20.x
+        uses: actions/setup-node@v4
         with:
-          node-version: '16'
+          node-version: '20'
       - name: Install Dependencies
-        run: npm install
+        run: npm ci
       - name: Fix Mathtype Regex
         run: cp ./inline.js ./node_modules/kramed/lib/rules/
       - name: Build
